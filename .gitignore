@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Environment variables — NUNCA subir esto
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+*.log
